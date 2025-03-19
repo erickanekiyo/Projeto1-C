@@ -57,4 +57,9 @@ return 0;
 
 void exibirMenu(){
 printf("Menu\n");
+printf("1. Criar tarefas\n");
+printf("2. Deletar tarefas\n");
+printf("3. Listar tarefas\n");
+printf("4. Carregar tarefas\n");
+printf("5. Salvar tarefas\n");
 }
